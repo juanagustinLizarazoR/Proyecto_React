@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://lh6.googleusercontent.com/proxy/2U11KZNrl3NZdQCk5y_5ikKtuW8SpGuWVmvRsfYOLwWEQXWOgj0BKPab4UwnzRuGouOcLYCaL3-V3-rEUdAMb2BiUXUOUvt_x2P_hp0ohMg7Z2F7ow4ZXrGEJtGB_vxYD55MrJSItTGCdEtqDw8=s0-d") !important;
+  /* background-size: cover; */
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  background-size: 100% 100%;
+}
+.app {
+  display: flex;
+  flex-direction: column;
+  /* width: 100vw; */
+  margin: 0;
+  padding: 0;
+}
+
+.mynav {
+  width: 100%;
+}
