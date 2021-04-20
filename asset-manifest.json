@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Proyecto_React/static/css/main.7ac78d4c.chunk.css",
+    "main.js": "/Proyecto_React/static/js/main.a1aa7a60.chunk.js",
+    "main.js.map": "/Proyecto_React/static/js/main.a1aa7a60.chunk.js.map",
+    "runtime-main.js": "/Proyecto_React/static/js/runtime-main.1367b003.js",
+    "runtime-main.js.map": "/Proyecto_React/static/js/runtime-main.1367b003.js.map",
+    "static/css/2.e81aa6db.chunk.css": "/Proyecto_React/static/css/2.e81aa6db.chunk.css",
+    "static/js/2.4d08f127.chunk.js": "/Proyecto_React/static/js/2.4d08f127.chunk.js",
+    "static/js/2.4d08f127.chunk.js.map": "/Proyecto_React/static/js/2.4d08f127.chunk.js.map",
+    "index.html": "/Proyecto_React/index.html",
+    "static/css/2.e81aa6db.chunk.css.map": "/Proyecto_React/static/css/2.e81aa6db.chunk.css.map",
+    "static/css/main.7ac78d4c.chunk.css.map": "/Proyecto_React/static/css/main.7ac78d4c.chunk.css.map",
+    "static/js/2.4d08f127.chunk.js.LICENSE.txt": "/Proyecto_React/static/js/2.4d08f127.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/Proyecto_React/static/media/fa-solid-900.efbd5d20.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1367b003.js",
+    "static/css/2.e81aa6db.chunk.css",
+    "static/js/2.4d08f127.chunk.js",
+    "static/css/main.7ac78d4c.chunk.css",
+    "static/js/main.a1aa7a60.chunk.js"
+  ]
+}
